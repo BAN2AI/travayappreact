@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="top"
+            android:layout_weight="2"
+            android:background="@drawable/baground_appbar"
+            app:elevation="0dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/travaybanner"
+                android:scaleType="centerCrop">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/baground_appbar"
+                    android:padding="50dp">
+
+
+                </LinearLayout>
+
+
+            </RelativeLayout>
+
+        </android.support.design.widget.AppBarLayout>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="210dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginBottom="10dp"
+            card_view:cardBackgroundColor="@color/white"
+            card_view:cardCornerRadius="20dp"
+            card_view:cardElevation="4dp">
+
+            <com.samyotech.fabcustomer.utils.CustomTextViewBold
+                android:id="@+id/tvFilter"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_margin="10dp"
+                android:layout_marginTop="270dp"
+                android:layout_weight="2"
+                android:drawableRight="@drawable/ic_drop_down"
+
+                android:gravity="center_vertical"
+                android:text="@string/all_categories"
+                android:textSize="16sp"
+                app:elevation="0dp" />
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v4.widget.SwipeRefreshLayout
+            android:id="@+id/swipe_refresh_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="250dp"
+            android:padding="10dp">
+
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rvDiscover"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </android.support.v7.widget.RecyclerView>
+
+        </android.support.v4.widget.SwipeRefreshLayout>
+
+    </RelativeLayout>
+
+    <com.samyotech.fabcustomer.utils.CustomTextViewBold
+        android:id="@+id/tvNotFound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_centerInParent="true"
+        android:text="@string/no_artist_found"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18sp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/showMap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginRight="16dp"
+        android:clickable="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="end|bottom"
+        card_view:srcCompat="@android:drawable/ic_dialog_map" />
+
+</RelativeLayout>

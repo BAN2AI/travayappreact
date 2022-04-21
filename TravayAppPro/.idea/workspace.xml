@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Firebase" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50956590-3cab-4167-a90c-569b5268e126" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28_2" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FabArtist" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/app/FabArtist.jks" />
+    <option name="KEY_ALIAS" value="FabArtist" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yl0vs7PhrlIt40KUiJf3mDoOjL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="lge-nexus_5x-00d099ee0fd530d1" />
+    <property name="DEBUGGABLE_PROCESS" value="com.samyotech.fabartists" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="2024093a0304" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-11-30T12:56:20.808Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="device.picker.selection" value="00d099ee0fd530d1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1609253852485" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.3.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-nodpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/getthatdone/provider/ui/fragment" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.samyotech.fabartist.ui.activity" />
+      <recent name="com.getthatdone.provider.ui.activity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.samyotech.fabartist.ui.adapter" />
+      <recent name="com.getthatdone.provider.ui.adapter" />
+      <recent name="com.getthatdone.provider.ui.fragment" />
+      <recent name="com.getthatdone.provider.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-nodpi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FabArtist:app [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FabArtist:app [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.FabArtist:app [signingReport]" />
+        <item itemvalue="Gradle.FabArtist:app [assemble]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50956590-3cab-4167-a90c-569b5268e126" name="Default Changelist" comment="" />
+      <created>1551420363998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551420363998</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1069" height="186" key="GridCell.Tab.0.bottom" timestamp="1609427168803">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1069" height="186" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609427168803" />
+    <state width="1069" height="186" key="GridCell.Tab.0.center" timestamp="1609427168799">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1069" height="186" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1609427168799" />
+    <state width="1069" height="186" key="GridCell.Tab.0.left" timestamp="1609427168789">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1069" height="186" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1609427168789" />
+    <state width="1069" height="186" key="GridCell.Tab.0.right" timestamp="1609427168801">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1069" height="186" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1609427168801" />
+    <state x="473" y="237" key="SettingsEditor" timestamp="1605888063101">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="473" y="237" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1605888063101" />
+    <state x="62" y="120" width="1131" height="677" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1609427676314">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="62" y="120" width="1131" height="677" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.877@0.23.1440.877" timestamp="1609427676314" />
+    <state x="482" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1609253728776">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="482" y="362" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1609253728776" />
+    <state x="642" y="431" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1605888036843" />
+    <state x="294" y="194" width="889" height="550" key="find.popup" timestamp="1609374340359">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="294" y="175" width="889" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1609320436633" />
+    <state x="294" y="194" width="889" height="550" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1609374340359" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/MyFirebaseMessagingService.java</url>
+          <line>30</line>
+          <properties field="i" class="com.samyotech.fabartists.MyFirebaseMessagingService" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/fragment/ImageGallery.java</url>
+          <line>201</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/samyotech/fabartists/ui/adapter/AllJobsAdapter.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
